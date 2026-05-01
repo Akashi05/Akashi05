@@ -30,7 +30,7 @@ class BerengerSessou:
 
     currently  = "Co-developing ArbitraChain @ Futur Studio Incubator 🚀"
     goal       = "Ship complete digital products — from architecture to deployment"
-    learning   = ["Go", "System Design", "Startup Engineering"]
+    learning   = ["Rust", "System Design", "Startup Engineering"]
 ```
 
 ---
