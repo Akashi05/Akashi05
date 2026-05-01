@@ -56,7 +56,7 @@ Neural network implemented **from scratch** in Python/NumPy. Covers backpropagat
 ### ⚙️ [AREA — Automation Platform](https://github.com/evra0/G-DEV-500-COT-5-2-area-10)
 IFTTT/Zapier-style action-reaction engine. **Microservices** architecture with async workers and full **OAuth2** integration — Lead Backend Developer.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EA4335?style=flat-square)
 
