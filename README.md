@@ -56,7 +56,7 @@ Neural network implemented **from scratch** in Python/NumPy. Covers backpropagat
 ### ⚙️ [AREA — Automation Platform](https://github.com/evra0/G-DEV-500-COT-5-2-area-10)
 IFTTT/Zapier-style action-reaction engine. **Microservices** architecture with async workers and full **OAuth2** integration — Lead Backend Developer.
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EA4335?style=flat-square)
 
@@ -102,6 +102,22 @@ Reimplementation of standard C library functions in **x86-64 Assembly**. Deep di
 ![Assembly](https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Systems](https://img.shields.io/badge/Low--level%20Systems-6366f1?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔗 [ArbitraChain — Prediction Markets Platform](https://arbitrachain.com)
+Startup co-founded @ **Futur Studio Incubator**. A prediction markets platform integrating **Polymarket API**, currently in active development. Built with a Rust backend, Next.js frontend, deployed on Docker + Vercel + Hostinger. Covers go-to-market strategy, beta testing, product growth and community building.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![Polymarket](https://img.shields.io/badge/Polymarket%20API-6366f1?style=flat-square)
 
 </td>
 </tr>
