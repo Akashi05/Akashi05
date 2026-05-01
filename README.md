@@ -123,8 +123,6 @@ Startup co-founded @ **Futur Studio Incubator**. A prediction markets platform i
 </tr>
 </table>
 
-> 💡 *Most projects were developed within private Epitech organization repositories — public repos represent only a portion of my work.*
-
 </div>
 
 ---
