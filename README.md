@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bérenger--sessou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bérenger-sessou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bérenger--sessou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A9renger-sessou-b36ab1314/)
 [![GitHub](https://img.shields.io/badge/GitHub-Akashi05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akashi05)
 [![Email](https://img.shields.io/badge/Email-berenger.sessou@epitech.eu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berenger.sessou@epitech.eu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-berenger--sessou.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://berenger-sessou.vercel.app)
